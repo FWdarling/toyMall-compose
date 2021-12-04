@@ -1,0 +1,8 @@
+[submodule "toyMall-admin-renren"]
+	path = toyMall-admin-renren
+	url = git@github.com:FWdarling/toyMall-admin-renren.git
+	branch = master
+[submodule "toyMall"]
+	path = toyMall
+	url = git@github.com:FWdarling/toyMall.git
+	branch = main
